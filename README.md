@@ -1,2 +1,2 @@
 # awesome-website-stub
-Stub website for AwesomeTreat.com
+Stub website for AwesomeTreat.com using Github Pages.
