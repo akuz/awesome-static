@@ -1,2 +1,2 @@
-# awesome-website
-Website for www.AwesomeTreat.com using Github Pages.
+# awesome-static
+Website for static.awesometreat.com using Github Pages.
